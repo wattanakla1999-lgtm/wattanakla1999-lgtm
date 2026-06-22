@@ -1,9 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=Hi%2C%20I%27m%20Kla%20Wattana&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=20" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Frontend+%26+Backend+Developer;Java+%26+Spring+Boot+Developer;REST+API+Developer;AI-Assisted+Software+Development;DevOps+Enthusiast" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=170&section=header&text=Hi%2C%20I%27m%20Kla%20Wattana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
@@ -13,7 +9,7 @@
 
 <p align="center">
   <img
-    width="420"
+    width="320"
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
     alt="Developer coding at a computer"
   />
@@ -23,13 +19,31 @@
 
 ## About Me
 
-- Full-Stack Developer specializing in modern web application development
-- Building applications with React, Next.js, Angular, Node.js and Spring Boot
-- Designing REST APIs, authentication systems and relational databases
+- Full-Stack Developer building modern web applications
+- Designing REST APIs, authentication systems and databases
 - Deploying production applications with Docker, PM2, Nginx and Linux
-- Integrating LINE, payment and email platforms
-- Applying AI-assisted development with prompt, context and harness engineering
-- Interested in software architecture, DevOps and cloud infrastructure
+- Applying AI-assisted workflows to practical software development
+
+## Mission Statement
+
+> I build practical, maintainable software that transforms real business problems into reliable digital products.
+
+## Current Focus
+
+<p>
+  <img src="https://img.shields.io/badge/Building-SaaS_%26_Booking_Systems-00C6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Developing-Full--Stack_Applications-0072FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Designing-REST_APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exploring-AI_Engineering-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-DevOps_%26_Cloud-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+## Live GitHub Status
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/wattanakla1999-lgtm?style=for-the-badge&logo=github&label=Followers&color=00C6FF" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwattanakla1999-lgtm&query=%24.public_repos&label=Public%20Repositories&logo=github&style=for-the-badge&color=0072FF" />
+</p>
 
 ## Tech Stack
 
@@ -100,6 +114,10 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
+<details>
+<summary><b>Integrations and AI Tools</b></summary>
+<br/>
+
 ### Integrations
 
 <p>
@@ -112,8 +130,6 @@
   <img src="https://img.shields.io/badge/Microsoft_Graph-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/IMAP%2FSMTP-0078D4?style=for-the-badge&logoColor=white" />
 </p>
-
-## AI-Assisted Development
 
 ### AI Tools
 
@@ -135,25 +151,7 @@
   <img src="https://img.shields.io/badge/Agentic_Workflows-F59E0B?style=for-the-badge&logoColor=black" />
 </p>
 
-## Featured Projects
-
-### Football Booking
-
-ระบบจองสนามฟุตบอลออนไลน์ รองรับการตรวจสอบสนามว่าง ประวัติการจอง การชำระเงิน และระบบจัดการสำหรับแอดมิน
-
-[View Repository](https://github.com/wattanakla1999-lgtm/football-booking)
-
-### Badminton
-
-ระบบบริหารจัดการและจองสนามแบดมินตันออนไลน์
-
-[View Repository](https://github.com/wattanakla1999-lgtm/badminton)
-
-### Software Catalog
-
-ระบบรวบรวมและนำเสนอ Software Products
-
-[View Repository](https://github.com/wattanakla1999-lgtm/Software-Catalog)
+</details>
 
 ## GitHub Statistics
 
@@ -166,10 +164,38 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wattanakla1999-lgtm&theme=github-dark-blue&hide_border=true" />
 </p>
 
+## Activity Graph
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=wattanakla1999-lgtm&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00C6FF&line=0072FF&point=ffffff"
+    alt="GitHub activity graph"
+  />
+</p>
+
 ## Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wattanakla1999-lgtm&label=Profile%20Views&color=00aef0&style=for-the-badge" />
+</p>
+
+## Contact
+
+<p align="center">
+  <a href="tel:+66933587094">
+    <img src="https://img.shields.io/badge/Phone-093--358--7094-00C853?style=for-the-badge" />
+  </a>
+  <a href="mailto:wattana.kla.1999@gmail.com">
+    <img src="https://img.shields.io/badge/Email-wattana.kla.1999%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/wattanakla1999-lgtm">
+    <img src="https://img.shields.io/badge/GitHub-wattanakla1999--lgtm-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  Open to collaboration, software projects and technology discussions.
 </p>
 
 <p align="center">
