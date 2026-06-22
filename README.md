@@ -37,6 +37,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wattanakla1999-lgtm&layout=compact&theme=github_dark&hide_border=true&langs_count=10&cache_seconds=1800&v=3" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
